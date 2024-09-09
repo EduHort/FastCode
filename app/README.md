@@ -1,10 +1,10 @@
-# Welcome to your Expo app 👋
+# Bem vindo 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Como Começar
 
-1. Install dependencies
+1. Instale as dependências
 
    ```bash
    npm i react-native-responsive-screen
@@ -16,7 +16,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm i expo-doctor
    ```
 
-2. Start the app
+2. Começe o app
 
    ```bash
     npm start
