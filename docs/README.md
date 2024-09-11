@@ -6,7 +6,7 @@ Aprenda como baixar e utilizar o app nesse tutorial!
 ## Como começar 🔧
 O FastCode é um aplicativo android, por isso é necessário um celular android para baixar o app.
 
-[Baixar FastCode]((https://github.com/Ext-FastCode/FastCode/releases/download/v1.0.0/FastCode.apk))
+# [Baixar FastCode]((https://github.com/Ext-FastCode/FastCode/releases/download/v1.0.0/FastCode.apk))
 
 Ao clicar em "Baixar FastCode" em seu aparelho android, o navegador será aberto. Clique em "Fazer o donwload", espere o download terminar, clique em "abrir" e depois, "instalar". Após a instalação terminar, é só clicar em "abrir" e começar a usar o app!
 
@@ -14,8 +14,8 @@ Ao clicar em "Baixar FastCode" em seu aparelho android, o navegador será aberto
 O aplicativo é divido em duas partes, "Clientes" e "Funcionários".
 
 
-## Clientes
+## Clientes 👥
 
 
 
-## Funcionários
+## Funcionários 🧑‍💼
