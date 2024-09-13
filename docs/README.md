@@ -12,17 +12,17 @@ Ao clicar em "Baixar FastCode" em seu aparelho android, o navegador será aberto
 
 # Como usar
 O aplicativo é dividido em duas partes, "Clientes" e "Funcionários".
-![Tela de inicio](./docs/telaInicio.png)
+![Tela de inicio](./telaInicio.png)
 
 
 ## Clientes 👥
 Duas funções estão disponíveis para os clientes: Ler QR-Code e verificar o histórico.
-![Cliente](./docs/cliente.png)
+![Cliente](./cliente.png)
 
 Quando o cliente for pagar seu pedido, ele deve clicar em "Ler QR-Code" e apontar para o QR-Code gerado pelo funcionário, e as informações de seu pedido irão aparecer.
-![Itens do Pedido](./docs/finalizarPedidoCliente.png)
+![Itens do Pedido](./finalizarPedidoCliente.png)
 
 O cliente também pode verificar seu histórico de compras clicando em "Histórico". O histórico guarda a data do pedido e todos os itens comprados.
-![Historico Cliente](./docs/historicoCliente.png)
+![Historico Cliente](./historicoCliente.png)
 
 ## Funcionários 🧑‍💼
