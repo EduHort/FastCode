@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "FastCode",
+    "slug": "FastCode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Logo-FastCode.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Logo-FastCode-Transparente.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.eduhdv.FastCode"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3385dc46-cc4b-40e2-b9ef-6fbaadc59116"
+      }
+    }
+  }
+}
